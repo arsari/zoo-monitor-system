@@ -2,7 +2,7 @@
 
 ---
 
-## IT145 Found in App Development 18EW5<br/>June 2018
+## IT145 Foundation in Application Development 18EW5<br/>June 2018
 
 ---
 
@@ -26,4 +26,4 @@ activities in exhibits.
 
 ---
 
-_[Last Update September 2021 by ASR]_
+<small>_[Last Update September 2021 by ASR]_</small>
